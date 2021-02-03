@@ -4,8 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "rimraf build && webpack s",
-    "build": "webpack"
+    "start": "webpack s",
+    "build": "rimraf build && webpack"
   },
   "devDependencies": {
     "@types/mini-css-extract-plugin": "^1.2.2",
