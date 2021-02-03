@@ -1,6 +1,6 @@
 # Webpack TypeScript Starter
 
-[**Blog Post**](https://abdus.net/blog/2021/typescript-webpack-setup/)
+[**Blog Post**](https://abdus.net/blog/2021/typescript-webpack-setup-with-css-modules/)
 
 ## Usage
 
